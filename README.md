@@ -1,7 +1,7 @@
 # EDA - interview selection first_round
 EDA on Netflix Movie Data (company=ASBL, position=data_analyst_intern)
 
-Earlier in my career I was appear one of interview for Data Anlyst Intern position, this was first round of selection process for that role. 
+### Earlier in my career I was appear one of interview for Data Anlyst Intern position, this was first round of selection process for that role. 
 
 As a part of the selection process below is attached an assignment to test analytical and reasoning skills and given 1 days to submit the assignement solution. 
 You need to solve the tasks and share the ipynb notebook (jupyter notebook) or Colab notebook (make sure to share the colab notebook with public rights so anyone can view it) containing the solution. 
@@ -24,11 +24,11 @@ Genres: Genre or Genres of the content (there can be multiple genres as well say
 2. Perform EDA (exploratory data analysis) on the dataset. 
 3. Plot some meaningful graphs here which convey some insights and those insights businesses can use to further increase their revenue and attract more customers. Make sure that the insights found must be backed up by data and share some recommendations for the stakeholders (The recommendations should be simpler to understand as mostly stakeholders or businesspeople want things to be non-technical so that they are easy to grasp. Do not use much technical jargon and explain in simpler words). 
 4. Find answers to the below questions from this dataset. 
-(Questions which are marked as OPTIONAL if answered will add more marks to your final scoring metrics) 
-a. Which are the top 5 directors who produce most of the movies only? 
-b. Which are the top 5 genres which are liked by people or here liking means listed on the portal of Netflix (you can find a count for each genre and list the top 5 genres) for movies and TV shows? 
-c. Which 2 directors should Netflix collaborate with more based on the increase in their movies or tv shows over the past years? [OPTIONAL] 
-d. Which are the top 10 actors who are liked by people and have the most content on the Netflix OTT platform. 
-e. Which 2 actors should Netflix collaborate with more based on the increase in their movies or tv shows over the past years? [OPTIONAL] 
+  - (Questions which are marked as OPTIONAL if answered will add more marks to your final scoring metrics)
+  - a. Which are the top 5 directors who produce most of the movies only? 
+  - b. Which are the top 5 genres which are liked by people or here liking means listed on the portal of Netflix (you can find a count for each genre and list the top 5 genres) for movies and TV shows? 
+  - c. Which 2 directors should Netflix collaborate with more based on the increase in their movies or tv shows over the past years? [OPTIONAL] 
+  - d. Which are the top 10 actors who are liked by people and have the most content on the Netflix OTT platform. 
+  - e. Which 2 actors should Netflix collaborate with more based on the increase in their movies or tv shows over the past years? [OPTIONAL] 
 
-Dataset Link: - https://anshikakumari.s3.ap-south-1.amazonaws.com/Assignment_file/asbl_data_analyst_interview_assignment_netflix.xlsx 
+### Dataset Link: - https://anshikakumari.s3.ap-south-1.amazonaws.com/Assignment_file/asbl_data_analyst_interview_assignment_netflix.xlsx 
